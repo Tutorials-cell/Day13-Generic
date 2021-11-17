@@ -1,0 +1,13 @@
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.exe
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.deps.json
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.runtimeconfig.json
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.dll
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\bin\Debug\netcoreapp3.1\MaxOfThreeStrings.pdb
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.dll
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.pdb
+C:\Users\Bahulya\source\repos\MaxOfThreeStrings\obj\Debug\netcoreapp3.1\MaxOfThreeStrings.genruntimeconfig.cache
